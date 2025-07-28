@@ -1,4 +1,4 @@
-package com.example.loginms;
+package com.loginms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

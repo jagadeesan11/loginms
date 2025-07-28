@@ -1,7 +1,11 @@
-package com.example.loginms.controller;
+package com.loginms.controller;
 
 import com.example.loginms.dto.*;
-import com.example.loginms.service.AuthService;
+import com.loginms.dto.JwtResponse;
+import com.loginms.dto.LoginRequest;
+import com.loginms.dto.MessageResponse;
+import com.loginms.dto.RegisterRequest;
+import com.loginms.service.AuthService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
 import org.apache.logging.log4j.LogManager;

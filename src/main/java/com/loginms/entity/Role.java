@@ -1,4 +1,4 @@
-package com.example.loginms.entity;
+package com.loginms.entity;
 
 public enum Role {
     ADMIN,

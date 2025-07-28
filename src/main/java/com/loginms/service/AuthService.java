@@ -1,10 +1,13 @@
-package com.example.loginms.service;
+package com.loginms.service;
 
-import com.example.loginms.dto.*;
-import com.example.loginms.entity.User;
-import com.example.loginms.repository.UserRepository;
-import com.example.loginms.security.JwtUtils;
-import com.example.loginms.security.UserPrincipal;
+import com.loginms.dto.JwtResponse;
+import com.loginms.dto.LoginRequest;
+import com.loginms.dto.MessageResponse;
+import com.loginms.dto.RegisterRequest;
+import com.loginms.entity.User;
+import com.loginms.repository.UserRepository;
+import com.loginms.security.JwtUtils;
+import com.loginms.security.UserPrincipal;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;

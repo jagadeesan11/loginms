@@ -1,7 +1,7 @@
-package com.example.loginms.security;
+package com.loginms.security;
 
-import com.example.loginms.entity.User;
-import com.example.loginms.repository.UserRepository;
+import com.loginms.entity.User;
+import com.loginms.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

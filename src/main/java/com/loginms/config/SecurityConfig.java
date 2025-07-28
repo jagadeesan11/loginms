@@ -1,7 +1,7 @@
-package com.example.loginms.config;
+package com.loginms.config;
 
-import com.example.loginms.security.AuthTokenFilter;
-import com.example.loginms.security.UserDetailsServiceImpl;
+import com.loginms.security.AuthTokenFilter;
+import com.loginms.security.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

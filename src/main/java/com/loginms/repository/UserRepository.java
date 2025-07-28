@@ -1,6 +1,6 @@
-package com.example.loginms.repository;
+package com.loginms.repository;
 
-import com.example.loginms.entity.User;
+import com.loginms.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

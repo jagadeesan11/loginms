@@ -1,4 +1,4 @@
-package com.example.loginms.security;
+package com.loginms.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

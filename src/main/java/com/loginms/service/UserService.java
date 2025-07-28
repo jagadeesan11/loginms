@@ -1,9 +1,9 @@
-package com.example.loginms.service;
+package com.loginms.service;
 
-import com.example.loginms.dto.UserResponse;
-import com.example.loginms.entity.User;
-import com.example.loginms.repository.UserRepository;
-import com.example.loginms.security.UserPrincipal;
+import com.loginms.dto.UserResponse;
+import com.loginms.entity.User;
+import com.loginms.repository.UserRepository;
+import com.loginms.security.UserPrincipal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

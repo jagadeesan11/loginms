@@ -1,4 +1,4 @@
-package com.example.loginms.dto;
+package com.loginms.dto;
 
 public class JwtResponse {
     private String token;

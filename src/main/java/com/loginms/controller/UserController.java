@@ -1,7 +1,7 @@
-package com.example.loginms.controller;
+package com.loginms.controller;
 
-import com.example.loginms.dto.UserResponse;
-import com.example.loginms.service.UserService;
+import com.loginms.dto.UserResponse;
+import com.loginms.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;

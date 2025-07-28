@@ -1,6 +1,6 @@
-package com.example.loginms.dto;
+package com.loginms.dto;
 
-import com.example.loginms.entity.Role;
+import com.loginms.entity.Role;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

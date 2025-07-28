@@ -1,7 +1,6 @@
-package com.example.loginms.security;
+package com.loginms.security;
 
-import com.example.loginms.entity.Role;
-import com.example.loginms.entity.User;
+import com.loginms.entity.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

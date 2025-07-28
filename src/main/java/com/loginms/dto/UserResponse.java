@@ -1,6 +1,6 @@
-package com.example.loginms.dto;
+package com.loginms.dto;
 
-import com.example.loginms.entity.Role;
+import com.loginms.entity.Role;
 
 public class UserResponse {
     private Long id;
